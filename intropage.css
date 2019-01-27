@@ -1,0 +1,25 @@
+header {
+  float: left;
+  padding: 205px;
+  margin-top: -7%;
+}
+
+#rightHalf {
+   background: url(images/harpa.jpg);
+   background-repeat: no-repeat;
+   margin-top: -9px;
+   width: 50%;
+   height: 90%;
+   position: fixed;
+   right: 0px;
+   bottom: 0px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+  font-size: 17px;
+}
